@@ -28,4 +28,9 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \alexvasyutin\excel\AutoloadExample::widget(); ?>```
+<?php
+
+	$phpexcel = new PhpExcel();
+	$phpexcel->load($filename);	
+	
+ ?>```
