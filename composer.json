@@ -1,5 +1,5 @@
 {
-    "name": "alexandervas/yii2-excel",
+    "name": "alexrvs/yii2-excel",
     "description": "extension Import Excel",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","excel","PhpExcel"],
