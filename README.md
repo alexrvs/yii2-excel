@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist alexandervas/yii2-excel "*"
+php composer.phar require --prefer-dist alexrvs/yii2-excel "*"
 ```
 
 or add
 
 ```
-"alexandervas/yii2-excel": "*"
+"alexrvs/yii2-excel": "*"
 ```
 
 to the require section of your `composer.json` file.
